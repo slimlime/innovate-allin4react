@@ -1,0 +1,10 @@
+{
+    "name": "innovate-events-2018-07-19-08-52-33",
+    "authenticationType": "AMAZON_COGNITO_USER_POOLS",
+    "userPoolConfig": {
+        "userPoolId": "us-east-1_0fSGr4alY",
+        "awsRegion": "us-east-1",
+        "defaultAction": "ALLOW",
+        "appIdClientRegex": null
+    }
+}
